@@ -1,0 +1,36 @@
+2020-06-18T15:05:12.6123320Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+
+2020-06-18T16:36:59.1283208Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+
+2020-06-18T16:54:57.0710094Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+
+2020-06-18T17:18:19.4761646Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+
+2020-06-20T13:50:15.8825367Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+
+2020-06-20T14:42:50.5483531Z Exception System.Web.HttpException (0x80004005): Request is not available in this context
+   at System.Web.HttpContext.get_Request()
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.RequestAccessor() in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 58
+   at PX.Logging.Enrichers.AspNetCallbackEnricher.Enrich(LogEvent logEvent, ILogEventPropertyFactory propertyFactory) in E:\Bld6\AC-FULL2019R215-JOB1\Sources\NetTools\PX.Data\Logging\Enrichers\AspNetCallbackEnricher.cs:line 29
+   at Serilog.Core.Logger.Dispatch(LogEvent logEvent) caught while enriching Serilog.Events.LogEvent with PX.Logging.Enrichers.AspNetCallbackEnricher.
+

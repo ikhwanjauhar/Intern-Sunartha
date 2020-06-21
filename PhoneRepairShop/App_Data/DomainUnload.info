@@ -1,0 +1,8 @@
+ShutdownReason: HostingEnvironment;
+HostingEnvironment initiated shutdown
+HostingEnvironment caused shutdown;
+   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   at System.Web.Hosting.PipelineRuntime.StopProcessing()
